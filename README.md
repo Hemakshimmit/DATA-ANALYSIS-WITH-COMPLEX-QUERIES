@@ -69,3 +69,13 @@ Automating the analysis using Python scripts with libraries like pymysql or SQLA
 Adding real-world datasets to expand the analysis and showcase more complex scenarios.
 
 This repository serves as a valuable resource for understanding and applying advanced SQL concepts in data analysis. It highlights the importance of database management systems in deriving actionable insights from structured data.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c2126d7a-65be-4899-9df0-90c45d3fd740)
+
+![Image](https://github.com/user-attachments/assets/bfc80e8c-dfa5-4e5b-b700-3d1de24a3fb9)
+
+![Image](https://github.com/user-attachments/assets/03ffb03d-186d-4fe2-a3bd-85cee7917030)
+
+![Image](https://github.com/user-attachments/assets/7167a46c-39f0-49f1-8fa9-2d01ea46e179)
